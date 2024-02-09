@@ -10,7 +10,6 @@ p {
 }
 .element1 {
     position: absolute;
-    position: fixed;
     height: 160vh;
     left: 75%;
     max-width: 25vw;
@@ -36,7 +35,6 @@ p {
     grid-template-columns: auto auto auto auto;
     justify-items: center;
     color: rgb(190, 220, 90);
-    
     width: 80px;
 }
 img.wrapped {
@@ -45,3 +43,4 @@ img.wrapped {
 .container span {
     /* width: 20px; */
 }
+
