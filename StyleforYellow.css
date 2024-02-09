@@ -35,7 +35,7 @@ p {
     display: grid;
     grid-template-columns: auto auto auto auto;
     justify-items: center;
-
+    color: rgb(190, 220, 90);
     
     width: 80px;
 }
